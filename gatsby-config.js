@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Starter Landing Page`,
-    description: `A barebone landing page starter with some minimal styles.`,
+    title: `روبونئو`,
+    description: `دستیار هوشمند شما برای یادگیری.`,
     author: `@gillkyle`,
     siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
   },
