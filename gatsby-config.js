@@ -3,7 +3,7 @@ module.exports = {
     title: `روبونئو`,
     description: `دستیار هوشمند شما برای یادگیری.`,
     author: `@gillkyle`,
-    siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
+    siteUrl: `http:/roboneo.ir`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
