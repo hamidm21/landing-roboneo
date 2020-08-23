@@ -30,8 +30,8 @@ const Header = ({ siteTitle }) => (
     <p style={{ textAlign: "center", maxWidth: 440 }}>
       دستیار شما برای پیشرفت
     </p>
-    <Button>ویکی روبونئو</Button>
-    <Button>بلاگ روبونئو</Button>
+    <a href="http://wiki.roboneo.ir"><Button>ویکی روبونئو</Button></a>
+    <a href="http://blog.roboneo.ir"><Button>بلاگ روبونئو</Button></a>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
       <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
         <MockupContent />
